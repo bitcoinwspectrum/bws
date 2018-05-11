@@ -1,4 +1,4 @@
-Bitcoin W Spectrum Specifications
+Bitcoin W Spectrum Specifications - BWS
 
 Coin Generation: Pure Proof of Stake
 
