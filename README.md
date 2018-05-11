@@ -2,8 +2,8 @@ Bitcoin W Spectrum Specifications - BWS
 
 Coin Generation: Pure Proof of Stake
 
-9% annual stake return after 1 year
-paid by rewards after 2 hours minimum coin maturity
+9% annual stake return
+paid by rewards after two hours minimum coin maturity
 
 100.000.000 BWS Coins
 
